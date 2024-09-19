@@ -10,16 +10,17 @@ body {
   background-color: rgb(16, 16, 45);
   width: fit-content;
   height: fit-content;
-  border: 10px rgb(rgb(16, 16, 45), green, blue);
+  border: 10px (rgb(16, 16, 45), green, blue);
   padding: 0%;
   margin: 20px 30px;
 }
 #img {
-  width: 400px;
+  width: 600px;
   height: 250px;
 }
-#headding-text {
+#heading-text {
   display: block;
+  color: rgb(100, 10, 94);
 }
 #text-cont {
   display: inline-block;
