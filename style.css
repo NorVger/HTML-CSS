@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(19, 34, 34);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#card {
+  background-color: rgb(16, 16, 45);
+  width: fit-content;
+  height: fit-content;
+  border: 10px rgb(rgb(16, 16, 45), green, blue);
+  padding: 0%;
+  margin: 20px 30px;
+}
+#img {
+  width: 400px;
+  height: 250px;
+}
+#headding-text {
+  display: block;
+}
+#text-cont {
+  display: inline-block;
+}
+.txt {
+  display: block;
+  color: rgb(171, 71, 159);
+}
