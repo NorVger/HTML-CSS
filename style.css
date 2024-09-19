@@ -10,7 +10,7 @@ body {
   background-color: rgb(16, 16, 45);
   width: fit-content;
   height: fit-content;
-  border: 10px (rgb(16, 16, 45), green, blue);
+  border: 10px rgb(16, 16, 45);
   padding: 0%;
   margin: 20px 30px;
 }
